@@ -1,0 +1,101 @@
+.header{
+    background-color: brown;
+height: 100px;
+}
+.logo{
+    width: 120px;
+    margin-top: -100px;
+    margin-left: 50px;
+    height: 50px;
+background-color: white;
+text-align: center;
+}
+.log{
+ padding: 10px;
+}
+.nav{
+
+  background-color: brown;
+
+    display: inline;
+    color: black;
+  
+  
+}
+.white{
+    color: black;
+  padding: 10px 20px 10px 20px;
+  background-color: white;
+ text-decoration: none;
+ 
+
+}
+.abc{
+    margin-left: 600px;
+    margin-top: -40px;
+  height: 30px;
+  text-align: center;
+}
+.good{
+    background-color: palevioletred;
+    margin-top: 40px;
+    height: 600px;
+
+}
+.iphone{
+    display: inline;
+   
+}
+.oppo{
+    display: inline;
+  
+}
+.vivo{
+    display: inline;
+   
+}
+.lol{
+    margin-top: 70px;
+    padding: 10px 10px 50px 50px;
+  
+}
+.pop{
+    margin-top: 70px;
+    padding: 10px 10px 50px 50px;
+}
+.fall{
+    margin-top: 70px;
+    padding: 10px 10px 50px 50px;
+}
+
+.first{
+
+    display: inline-block
+   
+    
+   
+}
+.second{
+    
+    display:inline-block
+ 
+}
+.third{
+  
+    display:inline-block
+}
+.footer{
+    background-color: peru;
+    height: 100px;
+    
+    margin-top: -21px;
+}
+.foot{
+    background-color: white;
+    color: black;
+    height: 40px;
+    width: 390px;
+    margin-left: 500px;
+    margin-top: -80px;
+    text-align: center;
+}
